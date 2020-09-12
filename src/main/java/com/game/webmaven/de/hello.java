@@ -7,6 +7,7 @@ public class hello {
 		System.out.println("第一次版本测试");
 		System.out.println("在分支dev中 修改");
 		System.out.println("在主干中提交");
+		System.out.println("在分支中提交");
 
 	}
 

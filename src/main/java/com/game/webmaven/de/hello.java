@@ -3,12 +3,12 @@ package com.game.webmaven.de;
 public class hello {
 
 	public static void main(String[] args) {
-		System.out.println("Git ÔÚ eclipseÖĞµÄÊ¹ÓÃ");
-		System.out.println("µÚÒ»´Î°æ±¾²âÊÔ");
-		System.out.println("ÔÚ·ÖÖ§devÖĞ ĞŞ¸Ä");
-		System.out.println("ÔÚÖ÷¸ÉÖĞÌá½»");
-		System.out.println("ÔÚ·ÖÖ§ÖĞÌá½»");
-
+		System.out.println("Git åœ¨ eclipseä¸­çš„ä½¿ç”¨");
+		System.out.println("ç¬¬ä¸€æ¬¡ç‰ˆæœ¬æµ‹è¯•");
+		System.out.println("åœ¨åˆ†æ”¯devä¸­ ä¿®æ”¹");
+		System.out.println("åœ¨ä¸»å¹²ä¸­æäº¤");
+		System.out.println("åœ¨åˆ†æ”¯ä¸­æäº¤");
+                System.out.println("åœ¨çº¿ä¿®æ”¹");
 	}
 
 }
